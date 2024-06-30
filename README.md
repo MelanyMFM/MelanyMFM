@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👩‍💻 My Stats
 
 <p align="center">
    <img  align="center"  src="https://stats-seven-smoky.vercel.app/api/top-langs/?username=imlargo&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=32">
