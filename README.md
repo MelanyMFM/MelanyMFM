@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-   <img  align="center"  src="https://stats-seven-smoky.vercel.app/api/top-langs/?username=MelanyMFM&layout=compact&theme=radical&text_color=C384FF&langs_count=32">
+   <img  align="center" src="https://stats-seven-smoky.vercel.app/api/top-langs/?username=MelanyMFM&layout=compact&theme=radical&text_color=C384FF&langs_count=32">
 </p>
